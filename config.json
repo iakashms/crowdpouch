@@ -1,0 +1,7 @@
+{
+    "env" : {
+        "MONGO_USER" : "akashms",
+        "MONGO_PASSWORD" : "akashms789@A",
+        "MONGO_DB_NAME" : "crowdPouch"
+    }
+}
